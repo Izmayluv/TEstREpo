@@ -141,7 +141,7 @@ namespace WindowsFormsApp1
                     }
 
                 }
-
+                // Я НАСРАЛ КОДА
                 PrintCountOfRows();
             }
         }
